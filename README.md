@@ -13,3 +13,10 @@ Now run install shell
   ./installArduinoIDE.sh
   
  
+ 
+ # i2c
+ 
+ for i2c we will use smbus library
+  sudo install smbus
+  
+ 
